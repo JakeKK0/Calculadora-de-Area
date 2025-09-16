@@ -1,0 +1,15 @@
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/obj/Debug/net8.0/CalculadoraDeArea.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/obj/Debug/net8.0/CalculadoraDeArea.AssemblyInfoInputs.cache
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/obj/Debug/net8.0/CalculadoraDeArea.AssemblyInfo.cs
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/obj/Debug/net8.0/CalculadoraDeArea.csproj.CoreCompileInputs.cache
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/obj/Debug/net8.0/CalculadoraDeArea.sourcelink.json
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/bin/Debug/net8.0/CalculadoraDeArea
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/bin/Debug/net8.0/CalculadoraDeArea.deps.json
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/bin/Debug/net8.0/CalculadoraDeArea.runtimeconfig.json
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/bin/Debug/net8.0/CalculadoraDeArea.dll
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/bin/Debug/net8.0/CalculadoraDeArea.pdb
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/obj/Debug/net8.0/CalculadoraDeArea.dll
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/obj/Debug/net8.0/refint/CalculadoraDeArea.dll
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/obj/Debug/net8.0/CalculadoraDeArea.pdb
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/obj/Debug/net8.0/CalculadoraDeArea.genruntimeconfig.cache
+/workspaces/Calculadora-de-Area/CalculadoraDeArea/obj/Debug/net8.0/ref/CalculadoraDeArea.dll
