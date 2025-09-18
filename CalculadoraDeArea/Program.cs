@@ -34,6 +34,7 @@ namespace CalculadoraDeArea
                     break;
                 default:
                     Console.WriteLine("Selecione uma opção válida");
+                    Opcao();
                     break;
             }
         }
@@ -41,11 +42,11 @@ namespace CalculadoraDeArea
         static public void Quadrado()
         {
             Console.WriteLine("Digite o lado A");
-            int aQ = int.Parse(Console.ReadLine());
+            float aQ = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite o lado B");
-            int bQ = int.Parse(Console.ReadLine());
-            int resultadoQ = aQ*bQ;
+            float bQ = float.Parse(Console.ReadLine());
+            float resultadoQ = aQ*bQ;
             Console.WriteLine($"A área do quadrado ou retângulo é igual a '{resultadoQ}'");
             
             Opcao();
@@ -54,11 +55,11 @@ namespace CalculadoraDeArea
         static public void Triangulo()
         {
             Console.WriteLine("Digite o valor da Base");
-            int baseT = int.Parse(Console.ReadLine());
+            float baseT = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite o valor da Altura");
-            int alturaT = int.Parse(Console.ReadLine());
-            int resultadoT = (baseT*alturaT)/2;
+            float alturaT = float.Parse(Console.ReadLine());
+            float resultadoT = (baseT*alturaT)/2;
 
             Console.WriteLine($"A área do triângulo é igual a '{resultadoT}'");
 
@@ -68,7 +69,7 @@ namespace CalculadoraDeArea
         static public void Circulo()
         {
             Console.WriteLine("Digite o valor do Raio");
-            int raioC = int.Parse(Console.ReadLine());
+            float raioC = float.Parse(Console.ReadLine());
             double resultadoC = Math.Round(Math.PI * Math.Pow(raioC, 2), 2);
             Console.WriteLine($"A área do círculo é igual a '{resultadoC}'");
             
@@ -78,13 +79,13 @@ namespace CalculadoraDeArea
         static public void Trapezio()
         {
             Console.WriteLine("Digite o valor da Base Maior");
-            int baseMaior = int.Parse(Console.ReadLine());
+            float baseMaior = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite o valor da Base Menor");
-            int baseMenor = int.Parse(Console.ReadLine());
+            float baseMenor = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite o valor da Altura");
-            int alturaT = int.Parse(Console.ReadLine());
+            float alturaT = float.Parse(Console.ReadLine());
 
             double resultadoT = ((baseMaior + baseMenor) * alturaT) / 2;
             Console.WriteLine($"A área do trapézio é igual a '{resultadoT}'");

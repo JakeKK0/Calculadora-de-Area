@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraDeArea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f2489f800c97d399ec5bbebd58817a58a4d4fab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b1d853b608828629ef6868a1725c810fcd58ae0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraDeArea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraDeArea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
